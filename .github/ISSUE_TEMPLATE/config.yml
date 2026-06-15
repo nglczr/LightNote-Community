@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Sugestões, dúvidas e ideias
+    url: https://github.com/nglczr/LightNote-Community/discussions
+    about: Para conversar, sugerir melhorias e tirar dúvidas, use as Discussions.
+  - name: ☕ Apoiar o desenvolvimento
+    url: https://ko-fi.com/lightnote
+    about: Apoie o LightNote no Ko-fi ou adquira o LightNote Core na Microsoft Store.
