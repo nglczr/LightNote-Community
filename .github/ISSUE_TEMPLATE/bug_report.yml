@@ -26,26 +26,37 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: plataforma
+    attributes:
+      label: Plataforma
+      options:
+        - Windows
+        - Linux
+        - Android
+    validations:
+      required: true
+  - type: dropdown
     id: edicao
     attributes:
       label: Edição
       options:
         - LightNote (grátis)
         - LightNote Core (Microsoft Store)
+        - LightNote para Android (prévia)
         - Não sei
     validations:
       required: true
   - type: input
     id: versao
     attributes:
-      label: Versão
-      description: Veja em Ajuda → Sobre (ex.: 0.1 alfa).
+      label: Versão do LightNote
+      description: No computador, Ajuda → Sobre; no Android, toque e segure o ícone do LightNote → Informações do app.
     validations:
       required: false
   - type: input
     id: windows
     attributes:
-      label: Versão do Windows
-      placeholder: Windows 11 23H2
+      label: Sistema e versão
+      placeholder: Windows 11 23H2 · Ubuntu 24.04 (GNOME, Wayland) · Android 14, Pixel 7
     validations:
       required: false
