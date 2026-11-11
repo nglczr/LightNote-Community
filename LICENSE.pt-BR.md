@@ -1,6 +1,6 @@
 # Termos de Licença de Uso do LightNote
 
-**Última atualização:** 15 de junho de 2026
+**Última atualização:** 10 de novembro de 2026
 
 Este é o Contrato de Licença de Usuário Final ("Contrato") entre você ("Usuário")
 e **NGLCZR** ("Autor"), titular dos direitos sobre o software **LightNote** ("Software").
@@ -8,45 +8,64 @@ e **NGLCZR** ("Autor"), titular dos direitos sobre o software **LightNote** ("So
 Ao instalar, copiar ou usar o Software, você concorda com estes termos. Se não
 concordar, não use o Software.
 
-> **Edição efetiva.** O LightNote é distribuído em diferentes edições. A edição que
-> você está usando — e, portanto, quais cláusulas se aplicam a você — é a indicada na
-> janela **Sobre** do aplicativo (menu **Ajuda → Sobre o LightNote**).
+> **Uma licença só.** Estes termos valem igualmente para todas as formas de
+> distribuição do LightNote — o zip e o instalador do site oficial e do GitHub, o
+> pacote para Linux e a Microsoft Store — e não há edição paga. Eles valem também para
+> quem tem cópia de uma versão anterior: o Autor amplia, a partir desta versão, os
+> direitos concedidos por termos anteriores.
 
 ---
 
-## 1. Edições e concessão de licença
+## 1. Concessão de licença
 
-### 1.1 LightNote (Edição Grátis)
+O Autor concede ao Usuário uma licença **gratuita, não exclusiva, mundial e por prazo
+indeterminado** para instalar, executar e usar o Software **para qualquer finalidade,
+pessoal ou comercial** — por pessoa física, empresa, órgão de governo ou instituição de
+ensino —, em quantos dispositivos quiser, sem pagamento de qualquer valor.
 
-Distribuída gratuitamente pelo site oficial. O Autor concede ao Usuário uma licença
-**gratuita, pessoal, intransferível e não exclusiva** para instalar e usar o Software
-**exclusivamente para fins pessoais e não comerciais**.
+### 1.1 Redistribuição
 
-Você **pode** instalar e usar esta edição em quantos dispositivos você controlar,
-desde que o uso permaneça não comercial.
+Você **pode** copiar e redistribuir o Software, inclusive dentro de uma empresa ou
+instituição (pasta interna de rede, mídia física, imagem de instalação, espelho de
+download), desde que:
 
-Você **não pode**, nesta edição: usá-la em atividade comercial, profissional ou que
-gere receita; revender, alugar, sublicenciar ou redistribuir o Software como produto;
-cobrar de terceiros pelo seu uso.
+- a cópia seja **idêntica e não modificada** (o pacote como o Autor o distribuiu);
+- acompanhe estes termos e todos os avisos de direito autoral e de terceiros;
+- você **não cobre pelo Software em si** (cobrar pela mídia, pela instalação ou por um
+  serviço seu é permitido; vender o Software como produto, não).
 
-### 1.2 LightNote Core (Edição da Microsoft Store)
+### 1.2 O que não é permitido
 
-Distribuída pela **Microsoft Store** mediante um valor de **contribuição** ao
-desenvolvimento do projeto. A aquisição desta edição concede ao Usuário uma licença
-**de uso comercial**, além do uso pessoal, e dá direito a **atualizações automáticas**
-entregues pela Microsoft Store.
+Você **não pode**:
 
-A Edição Core possui **exatamente os mesmos recursos** da Edição Grátis; a diferença é
-a licença comercial, a entrega/atualização pela Store e o apoio ao desenvolvimento.
+- modificar o Software ou distribuir versões modificadas;
+- descompilar, desmontar ou fazer engenharia reversa do Software, salvo na medida em que
+  a lei aplicável permita expressamente, apesar desta restrição;
+- vender, alugar, arrendar ou sublicenciar o Software como produto;
+- remover ou alterar avisos de direito autoral, de marca ou de terceiros;
+- usar a marca ou o nome "LightNote" de modo a sugerir endosso, patrocínio ou vínculo
+  com o Autor que não exista.
 
-O uso desta edição também está sujeito aos **Termos de Uso da Microsoft Store**.
+### 1.3 Microsoft Store
 
-### 1.3 LightNote Business (Edição Corporativa — futura)
+Na Microsoft Store, o LightNote é distribuído gratuitamente, sob o mesmo nome e com
+estes mesmos termos; a Store é apenas um canal de distribuição, que entrega as
+**atualizações automáticas**. O uso por esse canal também está sujeito aos **Termos de
+Uso da Microsoft Store**.
 
-Edição destinada a licenciamento por **volume, corporativo ou de atacado**, **reservada
-para disponibilização futura**. Seus termos específicos serão fornecidos sob consulta a
-**contato@lightnote.com.br**. Até sua disponibilização, nenhuma cláusula deste Contrato
-concede direitos de licenciamento corporativo ou por volume.
+### 1.4 Apoio voluntário
+
+O Software não cobra nada. Quem quiser apoiar o desenvolvimento pode fazê-lo de forma
+voluntária, pelos canais indicados no site oficial; o apoio não altera a licença nem dá
+acesso a recursos diferentes.
+
+### 1.5 Serviços opcionais
+
+O Software pode oferecer integração com serviços online opcionais do Autor ou de
+terceiros (por exemplo, sincronização de arquivos), gratuitos ou pagos, regidos por
+termos próprios. Estes termos cobrem só o Software: usá-lo não exige contratar serviço
+algum, e nenhum recurso que funciona sem serviço online deixará de funcionar por falta
+de assinatura.
 
 ---
 
@@ -68,7 +87,7 @@ nome "LightNote".
 ## 4. Software de terceiros
 
 O Software incorpora componentes de terceiros, cada um sob sua própria licença (Qt,
-Scintilla & Lexilla, DuckDB, Hunspell, Monocypher, ODPI-C, ripgrep, ícones Fugue, entre
+Scintilla & Lexilla, DuckDB, Hunspell, Monocypher, ODPI-C, ripgrep, ícones Tabler, entre
 outros). Esses componentes são regidos por suas respectivas licenças, descritas nos
 **Avisos de Terceiros** acessíveis no aplicativo (**Ajuda → Sobre → Licenças de
 terceiros…**). Nada neste Contrato restringe os direitos que essas licenças concedem.

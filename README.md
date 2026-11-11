@@ -3,7 +3,7 @@
 Hub público do **LightNote**, o editor leve de código e notas para Windows e Linux, com
 um app companheiro para Android. Este repositório é o ponto de encontro de quem usa o
 aplicativo: aqui ficam as **discussões** e os **relatos de problemas** de todas as
-plataformas, e os **downloads** da edição gratuita para computador.
+plataformas, e os **downloads** para computador fora da Microsoft Store.
 
 > O código-fonte do aplicativo é mantido em um repositório privado. Este espaço é
 > dedicado à comunidade e à distribuição.
@@ -15,16 +15,16 @@ plataformas, e os **downloads** da edição gratuita para computador.
 
 ## ⬇️ Download
 
-- **LightNote (grátis), Windows e Linux:** baixe a versão mais recente em [Releases](https://github.com/nglczr/LightNote-Community/releases/latest) — para uso **pessoal e não comercial**. No Windows, instalador `.exe` ou `.zip` portátil; no Linux (prévia), AppImage ou pacote `.deb`. Os dois sistemas saem no mesmo release, com a mesma versão.
-- **LightNote Core (Microsoft Store):** para **uso comercial** e para apoiar o desenvolvimento, com atualizações automáticas. [Página na Store](https://apps.microsoft.com/store/detail/9N413D9JQ6M6).
-- **LightNote para Android (prévia gratuita):** os APKs ficam num repositório próprio, [LightNote-Android](https://github.com/nglczr/LightNote-Android), porque o app tem versão e ritmo próprios. Quando chegar à Google Play, ele será pago, com preço único.
+O LightNote é **gratuito para uso pessoal e comercial**, com uma licença só e os mesmos recursos em todo canal.
 
-As edições grátis e Core têm **exatamente os mesmos recursos**; a Core existe só no Windows.
+- **Windows — Microsoft Store (recomendado):** pacote assinado, instala sem aviso do Windows e recebe as atualizações automaticamente. [Página na Store](https://apps.microsoft.com/detail/9N413D9JQ6M6).
+- **Windows sem a Store e Linux:** baixe a versão mais recente em [Releases](https://github.com/nglczr/LightNote-Community/releases/latest). No Windows, instalador `.exe` (por usuário, sem administrador) ou `.zip` portátil — sem assinatura digital, então o Windows pede confirmação na primeira vez; no Linux (prévia), AppImage ou pacote `.deb`. Os dois sistemas saem no mesmo release, com a mesma versão.
+- **LightNote para Android (prévia gratuita):** os APKs ficam num repositório próprio, [LightNote-Android](https://github.com/nglczr/LightNote-Android), porque o app tem versão e ritmo próprios. Ele continuará gratuito quando chegar à Google Play.
 
 ## ☕ Apoie o projeto
 
 O LightNote é mantido por uma só pessoa. Se ele te ajuda, considere apoiar no
-[Ko-fi](https://ko-fi.com/lightnote) — ou adquira o **LightNote Core** na Store.
+[Ko-fi](https://ko-fi.com/lightnote) — é voluntário, e nenhum recurso depende disso.
 
 ## 📄 Licença
 

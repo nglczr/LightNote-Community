@@ -38,11 +38,14 @@ body:
   - type: dropdown
     id: edicao
     attributes:
-      label: Edição
+      label: Instalado por
       options:
-        - LightNote (grátis)
-        - LightNote Core (Microsoft Store)
-        - LightNote para Android (prévia)
+        - Microsoft Store
+        - GitHub — instalador (.exe)
+        - GitHub — portátil (.zip)
+        - Linux — AppImage
+        - Linux — pacote .deb
+        - Android (prévia)
         - Não sei
     validations:
       required: true
