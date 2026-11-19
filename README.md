@@ -21,11 +21,6 @@ O LightNote é **gratuito para uso pessoal e comercial**, com uma licença só e
 - **Windows sem a Store e Linux:** baixe a versão mais recente em [Releases](https://github.com/nglczr/LightNote-Community/releases/latest). No Windows, instalador `.exe` (por usuário, sem administrador) ou `.zip` portátil — sem assinatura digital, então o Windows pede confirmação na primeira vez; no Linux (prévia), AppImage ou pacote `.deb`. Os dois sistemas saem no mesmo release, com a mesma versão.
 - **LightNote para Android (prévia gratuita):** os APKs ficam num repositório próprio, [LightNote-Android](https://github.com/nglczr/LightNote-Android), porque o app tem versão e ritmo próprios. Ele continuará gratuito quando chegar à Google Play.
 
-## ☕ Apoie o projeto
-
-O LightNote é mantido por uma só pessoa. Se ele te ajuda, considere apoiar no
-[Ko-fi](https://ko-fi.com/lightnote) — é voluntário, e nenhum recurso depende disso.
-
 ## 📄 Licença
 
 O uso do aplicativo é regido pelos Termos de Licença:
